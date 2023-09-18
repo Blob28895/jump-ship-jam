@@ -2284,3 +2284,11 @@ Make sure 'BP_Player_C' has been compiled for  Get LastInput
 [2023.09.18-23.25.21:947][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.08 sec)
 [2023.09.18-23.25.21:952][874]AssetCheck: New page: Asset Save: IA_Ready
 [2023.09.18-23.25.21:952][874]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Ready.IA_Ready
+[2023.09.18-23.33.00:888][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.18-23.33.00:918][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../../../Unreal Projects/MashingGame/Content/Input/IMC_Player.uasset" SILENT=true
+[2023.09.18-23.33.00:919][701]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2023.09.18-23.33.00:919][701]LogSavePackage: Moving '../../../../../../Unreal Projects/MashingGame/Saved/IMC_PlayerDBCE7E444CD615F490FA2B95FEA30A8C.tmp' to '../../../../../../Unreal Projects/MashingGame/Content/Input/IMC_Player.uasset'
+[2023.09.18-23.33.00:923][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.11 sec)
+[2023.09.18-23.33.00:929][701]AssetCheck: New page: Asset Save: IMC_Player
+[2023.09.18-23.33.00:929][701]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2023.09.18-23.33.02:843][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
