@@ -1102,3 +1102,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.18-21.43.53:247][ 73]LogRendererCore: Warning: Query 'Unaccounted' not ready.
 [2023.09.18-21.43.53:264][ 75]LogRendererCore: Warning: Query 'Unaccounted' not ready.
 [2023.09.18-21.43.53:272][ 76]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2023.09.18-21.45.46:084][972]LogDerivedDataCache: C:/Users/blob2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 913 files in 1437 folders with total size 4 MiB.
